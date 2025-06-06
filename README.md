@@ -16,7 +16,7 @@ This To-Do List application allows users to manage their tasks efficiently. Ther
 - Bootstrap
 - Font Awesome (for icons)
 
-##Usage
+## Usage
 - **Adding a Task**: Type your task in the input field and click "Add task".
 - **Editing a Task**: Click the "Edit" button next to a task to modify it. Click "Save" to save changes.
 - **Deleting a Task**: Click the "Delete" button to remove a task from the list.
